@@ -57,7 +57,9 @@
 <br>
 <summary>
   🎨 Design stack currently using:
+  
 </summary>
+<br>
   <div>
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg"> 
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere2.svg"> 
