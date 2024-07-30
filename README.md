@@ -6,18 +6,18 @@
 <p align="center">
   <em>
     This is me <b>JENISH PATEL</b>, a Third year <b>Computer Science</b> undergraduate from <a href="https://www.svitvasad.ac.in/"> <b>Sardar Vallabhbhai Patel Institute of Technology</b>, India</a>.
-    An aspiring <b>Java Developer and UI/UX Designer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    An aspiring <b>Java Developer and UI/UX Designer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b>
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
 
-- 🧞 I'm a Tech Enthusiast since childhood.
+- 🧞 I'm a Techyy Enthusiast since childhood.
 - 🔭 I’m currently skilling myself up and getting to grips with UI/UX design.
 - 📖 I’m currently learning Java Development.
 - ⚡ Fun fact: I love to design new things, especially my life.
-<br>
+  <br>
 
 ---
 
@@ -43,31 +43,29 @@
 <code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
    -->
 
-
 <div>
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"> 
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
-        <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/jQuery/jquery1.svg"> 
+        <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/jQuery/jquery1.svg">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"> 
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
 </div>
 <br>
 
 <br>
 <summary>
   🎨 Design stack currently using:
-  
+
 </summary>
 <br>
   <div>
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg"> 
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere2.svg"> 
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere2.svg">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg">
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg"> 
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg">
 </div>
-
 
    <br>
 
@@ -77,12 +75,10 @@
   🌱 Looking forward to learn:
 </summary>
    <br>
-        <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/Flutter/flutter3.svg">  
+        <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/Flutter/flutter3.svg">
         <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/ReactNative/reactnative2.svg">
-        
+
 <br>
-
-
 
 <!-- <br>
 <p align="center">
@@ -96,7 +92,6 @@
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Ratheshan03" /></p>
 </details>
  -->
-
 
 <h4> Connect with me🤝: <h4>
   </hr>
