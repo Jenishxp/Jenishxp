@@ -100,7 +100,7 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/jenishpatel05/">
+  <a href="https://www.linkedin.com/in/jenishxp/">
    <img align="left" alt="Jenish Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:pateljenish313@gmail.com">
